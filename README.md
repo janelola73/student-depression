@@ -5,6 +5,8 @@ Student depression dataset captures the average number of hours students spend d
 The following were insight extracted from this dataset
 - Total Students
 - Average Age
+- Total population
+- Depression by Gender
 - Average Work/Study Hours
 - Number of Profession
 - Top 10 cities by depression
